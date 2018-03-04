@@ -4,30 +4,5 @@
         "content": "<p>This is some content</p>",
         "createdAt": "2018-03-03T22:49:16.266Z",
         "slug": "hello-world"
-    },
-    {
-        "title": "Let's Do this! ",
-        "content": "<p>lets go and do!</p><p>Cool Brah!<br></p> <h1>TEST</h1>",
-        "createdAt": "2018-03-03T22:49:44.913Z",
-        "slug": "lets-do-this",
-        "files": ""
-    },
-    {
-        "title": "New post eh?",
-        "content": "Ok lets go and do!",
-        "createdAt": "2018-03-03T22:50:22.021Z",
-        "slug": "new-post-eh"
-    },
-    {
-        "title": "New new post",
-        "content": "123123123",
-        "createdAt": "2018-03-03T23:22:58.792Z",
-        "slug": "new-new-post"
-    },
-    {
-        "title": "New",
-        "content": "",
-        "createdAt": "2018-03-04T00:11:07.712Z",
-        "slug": "new"
     }
 ]
